@@ -1,0 +1,14 @@
+body{
+    background-color: #cc3d3d;
+    background-image: url(12.gif)
+}
+
+h1{
+    font-size: 100px;
+    color: darkgreen;
+}
+
+p{
+    font-size: 40px;
+    color: white;
+}
